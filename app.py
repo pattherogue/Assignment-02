@@ -52,7 +52,6 @@ def is_balanced(string):
     return len(stack) == 0
 
 
-
 # 3. 
 class Deque:
     def __init__(self):
